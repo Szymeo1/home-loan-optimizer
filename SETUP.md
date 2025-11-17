@@ -5,7 +5,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/home-loan-optimizer.git
+git clone https://github.com/riteshkawadkar/home-loan-optimizer.git
 cd home-loan-optimizer
 ```
 
@@ -43,7 +43,7 @@ git commit -m "Initial commit: Home Loan Optimizer v1.0.0"
 ### 3. Connect to GitHub
 
 ```bash
-git remote add origin https://github.com/yourusername/home-loan-optimizer.git
+git remote add origin https://github.com/riteshkawadkar/home-loan-optimizer.git
 git branch -M main
 git push -u origin main
 ```

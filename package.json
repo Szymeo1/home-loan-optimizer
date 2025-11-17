@@ -6,12 +6,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/home-loan-optimizer.git"
+    "url": "https://github.com/riteshkawadkar/home-loan-optimizer.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/home-loan-optimizer/issues"
+    "url": "https://github.com/riteshkawadkar/home-loan-optimizer/issues"
   },
-  "homepage": "https://github.com/yourusername/home-loan-optimizer#readme",
+  "homepage": "https://github.com/riteshkawadkar/home-loan-optimizer#readme",
   "keywords": [
     "home-loan",
     "loan-calculator",

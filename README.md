@@ -48,7 +48,7 @@ An advanced financial planning tool that helps homeowners make data-driven decis
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/home-loan-optimizer.git
+git clone https://github.com/riteshkawadkar/home-loan-optimizer.git
 
 # Navigate to project directory
 cd home-loan-optimizer
