@@ -330,6 +330,49 @@ function App() {
         onApply={handleApplyOptimalStrategy}
         surplusAmount={surplusAmount}
       />
+
+      {/* Footer */}
+      <footer className="app-footer">
+        <div className="footer-content">
+          <div className="footer-info">
+            <span className="footer-version">
+              v{import.meta.env.VITE_APP_VERSION || '1.0.0'}
+            </span>
+            <span className="footer-separator">•</span>
+            <span className="footer-commit">
+              Build {import.meta.env.VITE_COMMIT_HASH || 'dev'}
+            </span>
+          </div>
+          <div className="footer-tagline">
+            Made with ❤️ for better financial planning
+          </div>
+          <div className="footer-links">
+            <a 
+              href="https://github.com/riteshkawadkar/home-loan-optimizer" 
+              target="_blank" 
+              rel="noopener noreferrer"
+            >
+              GitHub
+            </a>
+            <span className="footer-separator">•</span>
+            <a 
+              href="https://github.com/riteshkawadkar/home-loan-optimizer/blob/main/LICENSE" 
+              target="_blank" 
+              rel="noopener noreferrer"
+            >
+              MIT License
+            </a>
+            <span className="footer-separator">•</span>
+            <a 
+              href="https://github.com/riteshkawadkar/home-loan-optimizer/releases" 
+              target="_blank" 
+              rel="noopener noreferrer"
+            >
+              Releases
+            </a>
+          </div>
+        </div>
+      </footer>
     </div>
   );
 }
